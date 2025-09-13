@@ -1,0 +1,16 @@
+h1 {
+    color: aquamarine;
+}
+
+h3 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 200px;
+}
+
+.small {
+    gap: 50px;
+    font-size: 10px;
+}
+
